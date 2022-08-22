@@ -1,0 +1,8 @@
+{
+  "TestSettings": {
+    "Browser": "chrome",
+    "DefaultTimeoutSeconds": 20,
+    "Headless": false,
+    "VacancyUrl": "https://cz.careers.veeam.com/vacancies"
+  }
+}
